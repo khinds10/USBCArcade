@@ -1,6 +1,7 @@
 # USBCArcade
 Mult-form factor arcade with USB only connection from portable device
 
+# Build
 ![build](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/build1.jpg "build1")
 ![build](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/build2.jpg "build2")
 ![build](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/build3.jpg "build3")
@@ -10,30 +11,31 @@ Mult-form factor arcade with USB only connection from portable device
 ![build](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/build7.jpg "build7")
 ![build](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/build8.jpg "build8")
 
-![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/Buttons1.jpg "buttons")
-![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/Buttons2.jpg "buttons")
-![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/Buttons3.jpg "buttons")
-![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/Buttons4.jpg "buttons")
-![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/Buttons5.jpg "buttons")
-![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/IMG_20230616_150745.jpg "buttons")
+# Buttons
+![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/buttons/Buttons1.jpg "buttons")
+![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/buttons/Buttons2.jpg "buttons")
+![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/buttons/Buttons3.jpg "buttons")
+![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/buttons/Buttons4.jpg "buttons")
+![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/buttons/Buttons5.jpg "buttons")
+![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/buttons/IMG_20230616_150745.jpg "buttons")
 
+# Sound
+![sound](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/sound/Sound1.jpg "sound1")
+![sound](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/sound/Sound2.jpg "sound2")
+![sound](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/sound/Sound3.jpg "sound3")
+![sound](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/sound/Sound4.jpg "sound4")
+![sound](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/sound/Sound5.jpg "sound5")
 
-![sound](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/Sound1.jpg "sound1")
-![sound](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/Sound2.jpg "sound2")
-![sound](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/Sound3.jpg "sound3")
-![sound](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/Sound4.jpg "sound4")
-![sound](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/Sound5.jpg "sound5")
+# Wiring
+![wiring](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/sound/wiring1.jpg "wiring1")
+![wiring](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/sound/wiring2.jpg "wiring2")
+![wiring](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/sound/wiring3.jpg "wiring3")
+![wiring](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/sound/wiring4.jpg "wiring4")
+![wiring](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/sound/wiring5.jpg "wiring5")
+![wiring](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/sound/wiring6.jpg "wiring6")
 
-
-![wiring](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/wiring1.jpg "wiring1")
-![wiring](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/wiring2.jpg "wiring2")
-![wiring](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/wiring3.jpg "wiring3")
-![wiring](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/wiring4.jpg "wiring4")
-![wiring](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/wiring5.jpg "wiring5")
-![wiring](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/wiring6.jpg "wiring6")
-
-
-![finished](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/wiring6.jpg "finished")
+# Finished
+![finished](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/finished.jpg "finished")
 
 
 
