@@ -2,6 +2,17 @@
 Mult-form factor arcade with USB only connection from portable device
 
 # Build
+
+Against the wall, I build shelving with red t-moulding edging with black paint, power saw and router with the t-moulding bit.
+
+I drilled holes in the main board that will sit like a square on top of the main desk that contains the buttons.
+I drilled the button holes in a typical arcade fighter stick pattern.
+
+I created underneath the main desk a slide out panel with drawer brackets to hold the keyboard and mouse to slide out to use.
+
+The TV is mounted to the wall and surrounded by a wooden frame with a arcade marquee box at the top.  I measured the TV box frame to just larger than the
+mounted TV itself to give it an enclosed look.
+
 ![build](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/build1.jpg "build1")
 ![build](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/build2.jpg "build2")
 ![build](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/build3.jpg "build3")
