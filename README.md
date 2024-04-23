@@ -33,6 +33,13 @@ Sinden Red Arcade Light Gun
 PXN PC Racing Steering Wheel
 ![supplies](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/supplies/wheel.png "wheel")
 
+USB 10 Port HUB
+![supplies](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/supplies/power-strip.png "power strip")
+
+Power Strip
+![supplies](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/supplies/usb-strip.png "usb strip")
+
+
 # Build
 
 Build black painted shelving to contain the arcade against the wall.
