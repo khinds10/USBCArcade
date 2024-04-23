@@ -48,7 +48,8 @@ Build black painted shelving to contain the arcade against the wall.
 
 ![build](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/build1.jpg "build1")
 
-Drill holes in the main board that will sit like a square on top of the main desk that contains the buttons.
+Drill holes in the main board that will sit like a square on top of the main desk that contains the buttons, this will also hide the wiring that 
+connects all the USB devices below the desk.
 
 ![build](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/build2.jpg "build2")
 
@@ -62,7 +63,7 @@ Underneath the main desk there's a slide out panel with drawer brackets to hold 
 
 ![build](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/build4.jpg "build4")
 
-The TV is mounted to the wall and surrounded by a wooden frame with a arcade marquee box at the top.  
+The TV is mounted to the wall and surrounded by a wooden frame with a arcade marquee box at the top.
 Measure the TV box frame to just larger than the TV, to enclose it nicely and make it look built in.
 
 ![build](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/build5.jpg "build5")
@@ -83,7 +84,7 @@ Using the EG Starts guide I've wired the buttons accordingly, to a matching stic
 K4 K1 R1 L1
 K3 K2 R2 L2
 
-It is plug & play in windows and will register as a generic gamepad.
+It is plug & play in Windows and will register as a generic gamepad.
 
 ![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/buttons/Buttons3.jpg "buttons")
 ![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/buttons/Buttons4.jpg "buttons")
@@ -117,7 +118,7 @@ Using a USB HDMI Audio Splitter you can wire sound to a small amplifier to power
 
 Here's the following instruction of the completed wiring for all the components for the arcade.
 
-![complete wiring](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/sound/complete-wiring.pngg "complete wiring")
+![complete wiring](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/complete-wiring.png "complete wiring")
 
 The keyboard, mouse, lightgun, controller, and steering wheel all are connected to USB through a hold in the desk, 
 these wires will be hidden under the box that mounts the speakers slightly higher than the desk top.
@@ -133,7 +134,7 @@ Use coat hooks to nicely wrap the wiring to avoid tangles.
 # Finished
 
 As you can see it's able to have a complete multifunctional arcade cabinet with all the standard 
-arcade peripherals all routed through one single USB cable to the handheld.  The handheld is also reciving power to keep it charged as well.
+arcade peripherals all routed through one single USB cable to the handheld.  The handheld is also receiving power to keep it charged as well.
 
 ![finished](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/finished/1.jpg "finished")
 ![finished](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/finished/2.jpg "finished")
