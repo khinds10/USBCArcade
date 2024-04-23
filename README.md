@@ -1,5 +1,11 @@
 # USBCArcade
-Mult-form factor arcade with USB only connection from portable device
+Mult-form factor arcade with USB only connection from portable device.
+
+Using only a SINGLE connection to a gaming handheld you can unlock the power of a multi-form factor arcade below.
+The USB C Connection will handle power and display output from the handheld as well as adding all the additional gaming inputs.
+
+
+![finished](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/finished/5.jpg "finished")
 
 # Build
 
@@ -15,7 +21,7 @@ Using the EG Starts guide you can properly space the holes to drill.
 
 ![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/buttons/Buttons2.jpg "buttons")
 
-I created underneath the main desk a slide out panel with drawer brackets to hold the keyboard and mouse to slide out to use.
+Underneath the main desk there's a slide out panel with drawer brackets to hold the keyboard and mouse to slide out to use.
 
 ![build](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/build3.jpg "build3")
 
@@ -23,7 +29,6 @@ I created underneath the main desk a slide out panel with drawer brackets to hol
 
 The TV is mounted to the wall and surrounded by a wooden frame with a arcade marquee box at the top.  
 Measure the TV box frame to just larger than the TV, to enclose it nicely and make it look built in.
-
 
 ![build](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/build5.jpg "build5")
 ![build](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/build6.jpg "build6")
@@ -56,7 +61,7 @@ Against the wall, build shelving with red t-moulding edging with black paint, po
 
 # Sound
 
-I have a cutout above the TV for the marquee which will hold an additional game decal and 2 stereo speakers.
+There's a cutout above the TV for the marquee which will hold an additional game decal and 2 stereo speakers.
 Use the 3D print surrounds to give the speakers a nice finished look, this avoids having to cut perfect circles.
 
 ![sound](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/sound/Sound1.jpg "sound1")
@@ -91,7 +96,7 @@ Use coat hooks to nicely wrap the wiring to avoid tangles.
 # Finished
 
 As you can see it's able to have a complete multifunctional arcade cabinet with all the standard 
-arcade peripherals all routed through one single USB cable to the handheld.  The handheld is also receiving power to keep it charged as well.
+arcade peripherals all routed through one single USB cable to the handheld.  The handheld is also reciving power to keep it charged as well.
 
 ![finished](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/finished/1.jpg "finished")
 ![finished](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/finished/2.jpg "finished")
