@@ -70,8 +70,10 @@ Using a USB HDMI Audio Splitter you can wire sound to a small amplifier to power
 
 ![sound](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/sound/Sound5.jpg "sound5")
 
+The keyboard, mouse, lightgun, controller, and steering wheel all are connected to USB through a hold in the desk, 
+these wires will be hidden under the box that mounts the speakers slightly higher than the desk top.
+
 ![wiring](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/wiring/wiring1.jpg "wiring1")
-![wiring](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/wiring/wiring2.jpg "wiring2")
 ![wiring](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/wiring/wiring3.jpg "wiring3")
 ![wiring](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/wiring/wiring4.jpg "wiring4")
 ![wiring](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/wiring/wiring5.jpg "wiring5")
