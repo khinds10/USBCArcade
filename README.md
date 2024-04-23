@@ -38,6 +38,13 @@ Using the EG Starts guide I've wired the buttons accordingly, to a matching stic
 
 ![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/buttons/Buttons1.jpg "buttons")
 
+8 button joystick wired up like so:
+
+K4 K1 R1 L1
+K3 K2 R2 L2
+
+It is plug & play in windows and will register as a generic gamepad.
+
 
 ![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/buttons/Buttons3.jpg "buttons")
 ![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/buttons/Buttons4.jpg "buttons")
@@ -76,42 +83,19 @@ these wires will be hidden under the box that mounts the speakers slightly highe
 ![wiring](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/wiring/wiring1.jpg "wiring1")
 ![wiring](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/wiring/wiring3.jpg "wiring3")
 ![wiring](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/wiring/wiring4.jpg "wiring4")
+
+Use coat hooks to nicely wrap the wiring to avoid tangles.
+
 ![wiring](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/wiring/wiring5.jpg "wiring5")
 
 # Finished
+
+As you can see it's able to have a complete multifunctional arcade cabinet with all the standard 
+arcade peripherals all routed through one single USB cable to the handheld.  The handheld is also receiving power to keep it charged as well.
+
 ![finished](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/finished/1.jpg "finished")
 ![finished](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/finished/2.jpg "finished")
 ![finished](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/finished/3.jpg "finished")
 ![finished](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/finished/4.jpg "finished")
 ![finished](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/finished/5.jpg "finished")
 
-
-# BUTTONS - Sort below
-
-
-That is similar to the controller I have (mine has extra pins for leds). The controller is for 1 player (you need 2 of them for 2 players).
-It is practically a 12 button GAMEPAD.
-AU (up), AD (down), AR (right), AL (left) are for a microswitch joytstick (each switch with own wires) (separate pins), or a sanwa joystick (wire harness).
-K1-K4 are buttons 1 to 4,
-L1, L2, R1, R2 are buttons 5 to 8 (the ones you would press with your index finger)
-SE - Select button, ST - Start button (or buttons 9 and 10) K11, K12 are buttons 11 and 12
-
-The pins are simple + / - and will work with any microswitch
-
-It is plug & play in windows and will register as a generic gamepad. You will most likely have to configure MAME's input buttons but it's easy.
-
-
-Hi.. I have a different Bosega board without led-support so I am basing my comments on that. My board identifies as "0079:0006 DragonRise Inc. Generic USB Joystick". I am assuming yours does the same.
-
-The DragonRise USB controller is commonly used in clones of the PS3 dual shock gamepad. (with 1,2,3 and 4 corresponding to triangle,circle, cross and square.) If wired up correctly it should be correctly configured in games that support these gamepads.
-
-I have my 8 button joystick wired up like so:
-
-K4 K1 R1 L1
-K3 K2 R2 L2
-
-(yes, R to the left of L is the correct mapping for games like street fighter on PC and consoles as R1/R2 is used as buttons 5 and 6 on a gamepad)
-
-The MODE switch is far from useless. It switches your joystick from providing output (not input) on axes 0 and 1 (The left analog stick) or axis 4 and 5 (the d-pad). The output on the analog stick is still discrete but provides the output on the left analog stick axes.
-
-This is especially usefull on linux with kernels 4.4-4.8 as there is a bug in the driver that messes up the analog axes. The d-pad works as intended though.
