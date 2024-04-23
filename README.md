@@ -1,11 +1,37 @@
 # USBCArcade
 Mult-form factor arcade with USB only connection from portable device.
 
-Using only a SINGLE connection to a gaming handheld you can unlock the power of a multi-form factor arcade below.
+Using only a SINGLE USB C cable to a gaming handheld you can unlock the power of a multi-form factor arcade below.
 The USB C Connection will handle power and display output from the handheld as well as adding all the additional gaming inputs.
 
-
 ![finished](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/finished/5.jpg "finished")
+
+
+# Supplies
+
+PowerA Wired Controller for Xbox Series X|S
+![supplies](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/supplies/controller.png "controller")
+
+HDMI Audio Extractor Splitter 4K hdmi to hdmi 3.5mm Audio Adapter Converter
+![supplies](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/supplies/extractor.png "extractor")
+
+EG STARTS 2 Player Arcade Contest DIY Kits USB Encoder To PC Joystick
+![supplies](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/supplies/joystick.png "joystick")
+
+Gaming Mouse and Keyboard
+![supplies](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/supplies/keyboard-mouse.png "keyboard-mouse")
+
+Sinden Red Arcade Light Gun
+![supplies](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/supplies/lightgun.png "lightgun")
+
+43" SMART TV/Monitor
+![supplies](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/supplies/monitor-tv.png "monitor-tv")
+
+5" Speakers
+![supplies](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/supplies/speakers.png "speakers")
+
+PXN PC Racing Steering Wheel
+![supplies](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/supplies/wheel.png "wheel")
 
 # Build
 
