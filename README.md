@@ -34,8 +34,6 @@ Using the EG Starts guide I've wired the buttons accordingly, to a matching stic
 
 ![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/buttons/Buttons1.jpg "buttons")
 
-Attache the speakers to the 3D Printed surround and attache the surround to the marquee panel to place above the TV.
-
 ![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/buttons/Buttons2.jpg "buttons")
 ![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/buttons/Buttons3.jpg "buttons")
 ![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/buttons/Buttons4.jpg "buttons")
@@ -51,6 +49,9 @@ I have a cutout above the TV for the marquee which will hold an additional game 
 Use the 3D print surrounds to give the speakers a nice finished look, this avoids having to cut perfect circles.
 
 ![sound](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/sound/Sound1.jpg "sound1")
+
+Attach the speakers to the 3D Printed surround and attache the surround to the marquee panel to place above the TV.
+
 ![sound](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/sound/Sound2.jpg "sound2")
 
 Apply decals to center of marquee between the speakers.
