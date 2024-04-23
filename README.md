@@ -86,7 +86,6 @@ K3 K2 R2 L2
 
 It is plug & play in windows and will register as a generic gamepad.
 
-
 ![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/buttons/Buttons3.jpg "buttons")
 ![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/buttons/Buttons4.jpg "buttons")
 ![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/buttons/Buttons5.jpg "buttons")
