@@ -1,6 +1,6 @@
 # USBCArcade
 
-Mult-form factor arcade with USB only connection from portable device.
+Multi-form factor arcade with USB only connection from portable device.
 
 Using only a SINGLE USB C cable to a gaming handheld you can unlock the power of a multi-form factor arcade below.
 The USB C Connection will handle power and display output from the handheld as well as adding all the additional gaming inputs.
@@ -90,7 +90,7 @@ It is plug & play in Windows and will register as a generic gamepad.
 ![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/buttons/Buttons4.jpg "buttons")
 ![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/buttons/Buttons5.jpg "buttons")
 
-Against the wall, build shelving with red t-moulding edging with black paint, power saw and router with the t-moulding bit.
+Against the wall, build shelving with red t-molding edging with black paint, power saw and router with the t-molding bit.
 
 ![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/buttons/IMG_20230616_150745.jpg "buttons")
 
@@ -101,7 +101,7 @@ Use the 3D print surrounds to give the speakers a nice finished look, this avoid
 
 ![sound](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/sound/Sound1.jpg "sound1")
 
-Attach the speakers to the 3D Printed surround and attache the surround to the marquee panel to place above the TV.
+Attach the speakers to the 3D Printed surround and attached the surround to the marquee panel to place above the TV.
 
 ![sound](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/sound/Sound2.jpg "sound2")
 
@@ -133,8 +133,8 @@ Use coat hooks to nicely wrap the wiring to avoid tangles.
 
 # Finished
 
-As you can see it's able to have a complete multifunctional arcade cabinet with all the standard 
-arcade peripherals all routed through one single USB cable to the handheld.  The handheld is also receiving power to keep it charged as well.
+As you can see it's able to have a complete multi-functional arcade cabinet with all the standard arcade peripherals all routed through one single USB cable to the handheld. 
+The handheld is also receiving power to keep it charged as well.
 
 ![finished](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/finished/1.jpg "finished")
 ![finished](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/finished/2.jpg "finished")
