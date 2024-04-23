@@ -40,6 +40,8 @@ USB 10 Port HUB
 Power Strip
 ![supplies](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/supplies/usb-strip.png "usb strip")
 
+USB C to HDMI Adapter,with 4K HDMI Output USB 3.0 Port & USB-C Fasting Charging
+![supplies](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/supplies/usb-splitter.png "usb hdmi splitter")
 
 # Build
 
