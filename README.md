@@ -7,7 +7,6 @@ The USB C Connection will handle power and display output from the handheld as w
 
 ![finished](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/finished/5.jpg "finished")
 
-
 # Supplies
 
 PowerA Wired Controller for Xbox Series X|S
@@ -110,12 +109,15 @@ Apply decals to center of marquee between the speakers.
 ![sound](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/sound/Sound3.jpg "sound3")
 ![sound](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/sound/Sound4.jpg "sound4")
 
-
 # Wiring
 
 Using a USB HDMI Audio Splitter you can wire sound to a small amplifier to power the speakers.
 
 ![sound](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/sound/Sound5.jpg "sound5")
+
+Here's the following instruction of the completed wiring for all the components for the arcade.
+
+![complete wiring](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/sound/complete-wiring.pngg "complete wiring")
 
 The keyboard, mouse, lightgun, controller, and steering wheel all are connected to USB through a hold in the desk, 
 these wires will be hidden under the box that mounts the speakers slightly higher than the desk top.
@@ -138,4 +140,3 @@ arcade peripherals all routed through one single USB cable to the handheld.  The
 ![finished](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/finished/3.jpg "finished")
 ![finished](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/finished/4.jpg "finished")
 ![finished](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/finished/5.jpg "finished")
-
