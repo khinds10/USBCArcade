@@ -46,8 +46,11 @@ mounted TV itself to give it an enclosed look.
 ![wiring](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/sound/wiring6.jpg "wiring6")
 
 # Finished
-![finished](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/finished.jpg "finished")
-
+![finished](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/finished/1.jpg "finished")
+![finished](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/finished/2.jpg "finished")
+![finished](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/finished/3.jpg "finished")
+![finished](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/finished/4.jpg "finished")
+![finished](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/finished/5.jpg "finished")
 
 
 # BUTTONS - Sort below
