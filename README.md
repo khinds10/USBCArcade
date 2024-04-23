@@ -3,34 +3,29 @@ Mult-form factor arcade with USB only connection from portable device
 
 # Build
 
-
-
-
-
-
 Build black painted shelving to contain the arcade against the wall.
 
 ![build](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/build1.jpg "build1")
 
-Against the wall, build shelving with red t-moulding edging with black paint, power saw and router with the t-moulding bit.
+Drill holes in the main board that will sit like a square on top of the main desk that contains the buttons.
 
 ![build](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/build2.jpg "build2")
 
-Drill holes in the main board that will sit like a square on top of the main desk that contains the buttons.
+I created underneath the main desk a slide out panel with drawer brackets to hold the keyboard and mouse to slide out to use.
 
 ![build](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/build3.jpg "build3")
 
 ![build](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/build4.jpg "build4")
 
-I created underneath the main desk a slide out panel with drawer brackets to hold the keyboard and mouse to slide out to use.
+The TV is mounted to the wall and surrounded by a wooden frame with a arcade marquee box at the top.  
+Measure the TV box frame to just larger than the TV, to enclose it nicely and make it look built in.
+
 
 ![build](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/build5.jpg "build5")
 ![build](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/build6.jpg "build6")
 ![build](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/build7.jpg "build7")
 ![build](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/build8.jpg "build8")
 
-The TV is mounted to the wall and surrounded by a wooden frame with a arcade marquee box at the top.  
-Measure the TV box frame to just larger than the TV, to enclose it nicely and make it look built in.
 
 # Buttons
 
@@ -38,12 +33,17 @@ The button holes in a typical arcade fighter stick pattern.
 Using the EG Starts guide I've wired the buttons accordingly, to a matching stick fighter button arrangement.
 
 ![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/buttons/Buttons1.jpg "buttons")
+
+Attache the speakers to the 3D Printed surround and attache the surround to the marquee panel to place above the TV.
+
 ![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/buttons/Buttons2.jpg "buttons")
 ![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/buttons/Buttons3.jpg "buttons")
 ![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/buttons/Buttons4.jpg "buttons")
 ![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/buttons/Buttons5.jpg "buttons")
-![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/buttons/IMG_20230616_150745.jpg "buttons")
 
+Against the wall, build shelving with red t-moulding edging with black paint, power saw and router with the t-moulding bit.
+
+![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/buttons/IMG_20230616_150745.jpg "buttons")
 
 # Sound
 
@@ -52,17 +52,24 @@ Use the 3D print surrounds to give the speakers a nice finished look, this avoid
 
 ![sound](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/sound/Sound1.jpg "sound1")
 ![sound](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/sound/Sound2.jpg "sound2")
+
+Apply decals to center of marquee between the speakers.
+
 ![sound](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/sound/Sound3.jpg "sound3")
 ![sound](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/sound/Sound4.jpg "sound4")
-![sound](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/sound/Sound5.jpg "sound5")
+
 
 # Wiring
+
+Using a USB HDMI Audio Splitter you can wire sound to a small amplifier to power the speakers.
+
+![sound](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/sound/Sound5.jpg "sound5")
+
 ![wiring](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/wiring/wiring1.jpg "wiring1")
 ![wiring](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/wiring/wiring2.jpg "wiring2")
 ![wiring](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/wiring/wiring3.jpg "wiring3")
 ![wiring](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/wiring/wiring4.jpg "wiring4")
 ![wiring](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/wiring/wiring5.jpg "wiring5")
-![wiring](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/wiring/wiring6.jpg "wiring6")
 
 # Finished
 ![finished](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/finished/1.jpg "finished")
