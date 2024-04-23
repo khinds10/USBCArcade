@@ -11,6 +11,10 @@ Drill holes in the main board that will sit like a square on top of the main des
 
 ![build](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/build2.jpg "build2")
 
+Using the EG Starts guide you can properly space the holes to drill.
+
+![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/buttons/Buttons2.jpg "buttons")
+
 I created underneath the main desk a slide out panel with drawer brackets to hold the keyboard and mouse to slide out to use.
 
 ![build](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/build/build3.jpg "build3")
@@ -34,7 +38,7 @@ Using the EG Starts guide I've wired the buttons accordingly, to a matching stic
 
 ![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/buttons/Buttons1.jpg "buttons")
 
-![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/buttons/Buttons2.jpg "buttons")
+
 ![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/buttons/Buttons3.jpg "buttons")
 ![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/buttons/Buttons4.jpg "buttons")
 ![buttons](https://raw.githubusercontent.com/khinds10/USBCArcade/main/build-images/buttons/Buttons5.jpg "buttons")
